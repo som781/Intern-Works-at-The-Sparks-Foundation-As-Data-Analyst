@@ -45,7 +45,7 @@ Task 5 :    Exploratory Data Analysis - Sports (Level - Advanced)
               
 Task 6 :    Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 
-              ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news   headlines.
+              ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
               ● Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
               ● Download historical stock prices from finance.yahoo.com
               ● Download textual (news) data from https://bit.ly/36fFPI6
@@ -60,4 +60,4 @@ Task 7 :    Timeline Analysis : Covid-19 (Level - Advanced)
               ● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
               ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
               
-----------------------------------------------------------------------------------------------------------------------------------------------------------------.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------.
